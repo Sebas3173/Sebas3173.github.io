@@ -7,54 +7,36 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Chatbyte GmbH",
-    location: "Remote",
-    position: "Software Engineer",
-    period: "Mar 2024 - Present",
+    company: "Cooperativa de ahorro y crédito 'Promoción Tahuantinsuyo 1946'",
+    location: "Callao, Perú",
+    position: "Soporte Informatico",
+    period: "Sep 2022 - Jun 2023",
     achievements: [
-      "Designed and implemented business logic for AWS Lambdas using the Serverless Framework, forming the backbone of the application's functionality and ensuring seamless backend operations.",
-      "Built a comprehensive admin panel for managing content, user data, and analytics.",
-      "Contributed to the development and integration of a scalable CMS for managing blog content and other platform data.",
-      "Reduced database costs by introducing materialized views, optimizing query performance and resource usage.",
-      "Drove the integration of a custom affiliate marketing system, enabling seamless tracking and reporting of referrals and user activities.",
-      "Integrated Text-to-Speech (TTS) services for enhanced user experiences, optimizing both frontend and backend systems.",
-      "Collaborated with cross-functional teams to deliver high-quality features, actively reviewing pull requests to ensure code quality, adherence to standards, and efficient implementation.",
+      "Atención a usuarios.",
+      "Manteniemto de latops - Pc.",
+      "Resolución de problemas",
+      "Inventario de TI.",
     ],
   },
   {
-    company: "DevCrew",
-    location: "Coimbatore, India",
-    position: "Software Engineer",
-    period: "Mar 2023 - Mar 2024",
-    achievements: [
-      "Developed responsive frontend components using React.js, enhancing user experience and app performance.",
-      "Optimized JavaScript solutions to improve load times and data-fetching efficiency.",
-    ],
-  },
-  {
-    company: "Phoenitags",
-    location: "Coimbatore, India",
-    position: "Software Engineering Intern",
+    company: "Instituto Nacional de Estadistica e Informatica",
+    location: "Lima, Perú",
+    position: "Aplicador en el ENLA (Evaluación Nacional de Logros de Aprendizaje de Estudiantes)",
     period: "Jan 2023 - Mar 2023",
     achievements: [
-      "Built interactive UIs with React.js, focusing on reusable components and performance optimization.",
-      "Implemented JavaScript-based features like user authentication and real-time updates.",
+      "Tomar a los alumnos la evaluación correspondientes en el plazó y días asignados",
+      "Registrar detalladamente todo los sucedos ocurridos durante la prueba",
+      "Registrar los datos de los examenes en un documento aparte para su futuro registro y análisis"
     ],
   },
 ];
 
 export const education = [
   {
-    institution: "Sri Krishna College of Engineering and Technology",
-    location: "Coimbatore, India",
-    degree: "B Tech Information Technology",
-    period: "Jun 2021 - Jun 2025",
-    achievements: [
-      "President of the Department of Information Technology",
-      "G20 student delegate",
-      "Organized multiple technical workshops and events",
-      "Represented my college in multiple national and international hackathons and won.",
-    ],
+    institution: "Zegel Ipae",
+    location: "Lima, Perú",
+    degree: "Gestión de sistemas de la información",
+    period: "Abr 2021 - Feb 2025",
   },
 ];
 export const skills = {
