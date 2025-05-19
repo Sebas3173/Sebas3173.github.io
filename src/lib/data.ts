@@ -1,9 +1,8 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rishikesh2003",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  name: "Sebastián André Bazán Ayala",
+  location: "Lima, Perú",
+  email: "sebastianbazan3173@gmail.com",
+  linkedin: "www.linkedin.com/in/sebastián-andré-bazán-ayala-548385257",
 };
 
 export const workExperience = [
