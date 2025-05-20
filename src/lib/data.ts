@@ -54,7 +54,7 @@ export const skills = {
   databaseAndStorage: ["SQL Server", "MySQL"],
   cloudAndDevOps: ["AWS"],
     toolsAndServices: [
-    "Power BI (analytics)",
+    "Power BI (análisis de datos)",
   ],
 };
 
