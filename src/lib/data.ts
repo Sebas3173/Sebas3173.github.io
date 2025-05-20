@@ -14,7 +14,7 @@ export const workExperience = [
     achievements: [
       "Atención a usuarios.",
       "Manteniemto de latops - Pc.",
-      "Resolución de problemas",
+      "Resolución de problemas.",
       "Inventario de TI.",
     ],
   },
