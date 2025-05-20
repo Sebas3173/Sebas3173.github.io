@@ -22,7 +22,7 @@ export const workExperience = [
     company: "Instituto Nacional de Estadistica e Informatica",
     location: "Lima, Perú",
     position: "Aplicador en el ENLA (Evaluación Nacional de Logros de Aprendizaje de Estudiantes)",
-    period: "Jan 2023 - Mar 2023",
+    period: "Nov 2024 - Nov 2024",
     achievements: [
       "Tomar a los alumnos la evaluación correspondientes en el plazó y días asignados",
       "Registrar detalladamente todo los sucedos ocurridos durante la prueba",
