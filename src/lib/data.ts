@@ -26,7 +26,7 @@ export const workExperience = [
     achievements: [
       "Tomar a los alumnos la evaluación correspondientes en el plazó y días asignados",
       "Registrar detalladamente todo los sucedos ocurridos durante la prueba",
-      "Registrar los datos de los examenes en un documento aparte para su futuro registro y análisis"
+      "Registrar los datos de los examenes para su futuro análisis"
     ],
   },
 ];
@@ -41,34 +41,18 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: [
-    "TypeScript",
     "JavaScript",
     "Python",
-    "C++",
     "Java",
-    "Solidity",
   ],
   frontendDevelopment: [
-    "Nextjs",
     "Reactjs",
-    "React Native",
-    "Shadcn UI",
-    "Tailwind CSS",
     "HTML",
     "CSS",
   ],
-  backendDevelopment: ["Nodejs", "Expressjs"],
-  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
+  backendDevelopment: ["Nodejs"],
+  databaseAndStorage: ["SQL Server", "MySQL"],
   cloudAndDevOps: ["AWS"],
-  toolsAndServices: [
-    "Clerk (Auth)",
-    "Sanity (CMS)",
-    "Tinybird (analytics)",
-    "Zod",
-    "Sentry",
-    "Mixpanel",
-    "Trigger.dev",
-  ],
 };
 
 export const projects = [
