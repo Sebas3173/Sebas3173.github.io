@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "Sebastián André Bazán Ayala",
   location: "Lima, Perú",
   email: "sebastianbazan3173@gmail.com",
-  linkedin: "www.linkedin.com/in/sebastián-andré-bazán-ayala-548385257",
+  linkedin: "https://linkedin.com/in/sebastián-andré-bazán-ayala-548385257",
 };
 
 export const workExperience = [
