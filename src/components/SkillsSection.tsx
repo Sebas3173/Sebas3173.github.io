@@ -47,13 +47,13 @@ const skillCategoryVariants = {
 export default function SkillsSection() {
   return (
     <section
-      id="skills"
+      id="habilidades"
       className="py-12 bg-gradient-to-b from-background to-muted/20"
     >
       <div className="container max-w-4xl mx-auto px-6 md:px-4">
         <MotionWrapper>
           <h2 className="text-2xl font-bold mb-8 text-center md:text-left">
-            🛠️ Skills
+            🛠️ Habilidades
           </h2>
         </MotionWrapper>
 
