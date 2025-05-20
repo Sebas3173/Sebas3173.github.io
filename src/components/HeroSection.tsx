@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Software Engineer 👨‍💻
+              Gestor de Sistemas de Información 👨‍💻
             </motion.p>
 
             <motion.div
@@ -74,17 +74,6 @@ export default function HeroSection() {
                 ✉️ {personalInfo.email}
               </motion.a>
 
-              <motion.a
-                href={personalInfo.github}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors"
-                variants={childVariants}
-                whileHover={{ scale: 1.05, color: "#4b5563" }}
-              >
-                <Github className="h-4 w-4 mr-2" />
-                🌟 GitHub
-              </motion.a>
 
               <motion.a
                 href={personalInfo.linkedin}
@@ -122,15 +111,14 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Passionate software engineer with a versatile skill set
-              spanning multiple domains. I thrive on solving complex challenges
-              across different platforms and environments, adapting quickly to
-              new technologies and methodologies. My holistic approach combines
-              technical expertise with creative problem-solving, allowing me to
-              develop solutions that are both innovative and practical. I'm
-              driven by continuous learning and a commitment to excellence,
-              whether working independently or collaborating with diverse teams
-              to create impactful, scalable solutions.
+              🚀 Soy un profesional recién graduado en Gestión de
+               sistemas de la información, con una sólida formación en
+               programación, bases de datos, redes y administración
+               de sistemas. Me apasiona aprender nuevas tecnologías
+               y aplicar mis conocimientos en proyectos prácticos.
+               Busco una oportunidad para iniciar mi carrera
+               profesional y contribuir al desarrollo de soluciones
+               tecnológicas innovadoras.
             </p>
           </div>
         </MotionWrapper>
