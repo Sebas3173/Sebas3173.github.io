@@ -49,28 +49,15 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Net Zero Carbon Emissions",
-    github: "https://github.com/rishikesh2003/Prodigi",
+    title: "UN SISTEMA WEB INFORMATIVO QUE PROPORCIONE RESULTADOS DE UN ANÁLISIS DESCRIPTIVO SOBRE CASOS DE ENFERMEDADES ONCOLOGICAS REGISTRADAS EN EL PERÚ",
     description: [
-      "WiFi-RTT: Developed indoor occupancy tracking for energy optimization.",
-      "IoT Solutions: Implemented smart monitoring for energy efficiency and food waste reduction.",
-      "Real-Time Tracking: Designed systems to monitor carbon emissions and optimize resources.",
-      "Data-Driven Insights: Analyzed user patterns for adaptive energy and food management.",
-      "Reward Integration: Built QR-based green points system to incentivize eco-friendly actions.",
+      "Empleando una data oficial se realizó un análisis de casos registrados por región.",
+      "Se creó una web para que exista la posibilidad de que los resultados sean visualizados por todo publico.",
+      "Utilizando Power BI se diseñaron los dashboards para visualizar y y filtrar los datos según lo que se quiera observar.",
+      "Se hizo modelo descriptivo y predictivo",
     ],
   },
-  {
-    title: "Mental Aarog",
-    github: "https://github.com/rishikesh2003/mental-aarog",
-    description: [
-      "A holistic mental health app leveraging AI and blockchain for early detection and personalized solutions for depression.",
-      "Features include social media analysis (ML-based sentiment tracking), PHQ-9 assessments, smartwatch integration for sleep and activity data, guided meditation, and smart suggestions for food, travel, music, and movies.",
-      "Developed a rewards system using MAG crypto token on Ethereum, enabling user engagement through in-app incentives.",
-      "Secure storage implemented via web3.storage, IPFS, and FileCoin.",
-      "Built with React, Supabase, Node.js, Flask, and Solidity, showcasing seamless integration of health tech and blockchain.",
-    ],
-  },
-];
+
 
 export const awards = [
   {
