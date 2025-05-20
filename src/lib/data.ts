@@ -53,6 +53,9 @@ export const skills = {
   backendDevelopment: ["Nodejs"],
   databaseAndStorage: ["SQL Server", "MySQL"],
   cloudAndDevOps: ["AWS"],
+    toolsAndServices: [
+    "Power BI (analytics)",
+  ],
 };
 
 export const projects = [
