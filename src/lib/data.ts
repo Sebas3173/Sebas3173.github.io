@@ -54,7 +54,7 @@ export const projects = [
       "Empleando una data oficial se realizó un análisis de casos registrados por región.",
       "Se creó una web para que exista la posibilidad de que los resultados sean visualizados por todo publico.",
       "Utilizando Power BI se diseñaron los dashboards para visualizar y y filtrar los datos según lo que se quiera observar.",
-      "Se hizo modelo descriptivo y predictivo",
+      "Se hizo modelo descriptivo y predictivo.",
     ],
   },
 ];
