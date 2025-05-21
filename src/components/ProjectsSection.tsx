@@ -31,7 +31,7 @@ export default function ProjectsSection() {
                     {project.title}
                   </CardTitle>
                 </CardHeader>
-                <CardContent className="flex-grow">
+                <CardContent className="pt-4 flex-grow">
                   <ul className="list-disc ml-4 space-y-1 text-sm group-hover:space-y-2 transition-all duration-300">
                     {project.description.map((desc, i) => (
                       <motion.li
@@ -53,7 +53,7 @@ export default function ProjectsSection() {
                   <img
                     src={project.img}
                     alt="Profile"
-                    className="w-48 md:w-60 rounded-full relative ring-2 ring-purple-500/50"
+                    className="w-48 md:w-60 relative ring-2 ring-purple-500/50"
                     style={{ objectFit: "cover" }}
                   />
                   </div>
