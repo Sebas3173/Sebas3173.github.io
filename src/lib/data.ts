@@ -50,6 +50,7 @@ export const skills = {
 export const projects = [
   {
     title: "UN SISTEMA WEB INFORMATIVO QUE PROPORCIONE RESULTADOS DE UN ANÁLISIS DESCRIPTIVO SOBRE CASOS DE ENFERMEDADES ONCOLOGICAS REGISTRADAS EN EL PERÚ",
+    img:"/proyecto2.jpg",
     description: [
       "Empleando una data oficial se realizó un análisis de casos registrados por región.",
       "Se creó una web para que exista la posibilidad de que los resultados sean visualizados por todo publico.",
