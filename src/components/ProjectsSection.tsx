@@ -48,6 +48,7 @@ export default function ProjectsSection() {
                   </ul>
                 </CardContent>
                 <CardFooter className="flex justify-center md:justify-start items-center border-t border-border/30 bg-gradient-to-r from-purple-500/5 to-pink-500/5">
+                  <div className="relative">
                   <div className="absolute -inset-1 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full blur opacity-30 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
                   <img
                     src={project.img}
