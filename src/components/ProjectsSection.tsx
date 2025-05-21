@@ -48,7 +48,7 @@ export default function ProjectsSection() {
                   </ul>
                 </CardContent>
                 <CardFooter className="flex justify-center md:justify-start items-center border-t border-border/30 bg-gradient-to-r from-purple-500/5 to-pink-500/5">
-
+                  <div className="relative">
                   <div className="absolute -inset-1 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full blur opacity-30 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
                   <img
                     src={project.img}
@@ -56,7 +56,7 @@ export default function ProjectsSection() {
                     className="w-48 md:w-60 rounded-full relative ring-2 ring-purple-500/50"
                     style={{ objectFit: "cover" }}
                   />
-
+                  </div>
 
                 </CardFooter>
               </GlassCard>
