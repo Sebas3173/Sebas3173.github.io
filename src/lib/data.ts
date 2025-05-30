@@ -55,7 +55,7 @@ export const skills = {
   databaseAndStorage: ["SQL Server", "MySQL"],
   cloudAndDevOps: ["AWS"],
     toolsAndServices: [
-    "Power BI (análisis de datos-Intermedio)","Looker Studio (Básico) ", "Excel (Intermedio)", 
+    "Power BI (análisis de datos-Intermedio)","Looker Studio (Básico) ", "Excel (Intermedio)", "Google Analytics (Básico)",
   ],
 };
 
