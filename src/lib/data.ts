@@ -7,18 +7,6 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Cooperativa de ahorro y crédito 'Promoción Tahuantinsuyo 1946'",
-    location: "Callao, Perú",
-    position: "Soporte Informatico",
-    period: "Sep 2022 - Jun 2023",
-    achievements: [
-      "Atención a usuarios.",
-      "Mantenimiento de latops - Pc.",
-      "Resolución de problemas.",
-      "Inventario de TI.",
-    ],
-  },
-  {
     company: "Instituto nacional de estadística e informática (INEI)",
     location: "Callao, Perú",
     position: "Aplicador",
@@ -28,6 +16,18 @@ export const workExperience = [
       "Interactuar con las autoridades correspondientes para informar sobre el manejo que se le darán a los datos",
       "Ayudar a mantener el orden mientras se recopilan los datos",
       "Brindar un informe sobre lo recopilado, incidencias, observaciones, etc.",
+    ],
+  },
+  {
+    company: "Cooperativa de ahorro y crédito 'Promoción Tahuantinsuyo 1946'",
+    location: "Callao, Perú",
+    position: "Soporte Informatico",
+    period: "Sep 2022 - Jun 2023",
+    achievements: [
+      "Atención a usuarios.",
+      "Mantenimiento de latops - Pc.",
+      "Resolución de problemas.",
+      "Inventario de TI.",
     ],
   },
 ];
