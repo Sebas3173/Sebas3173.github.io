@@ -18,6 +18,18 @@ export const workExperience = [
       "Inventario de TI.",
     ],
   },
+  {
+    company: "Instituto nacional de estadística e informática (INEI)",
+    location: "Callao, Perú",
+    position: "Aplicador",
+    period: "Nov 2025 - Nov 2025",
+    achievements: [
+      "Ayudar a recopilar y registrar datos de las pruebas realizadas.",
+      "Interactuar con las autoridades correspondientes para informar sobre el manejo que se le darán a los datos",
+      "Ayudar a mantener el orden mientras se recopilan los datos",
+      "Brindar un informe sobre lo recopilado, incidencias, observaciones, etc.",
+    ],
+  },
 ];
 
 export const education = [
