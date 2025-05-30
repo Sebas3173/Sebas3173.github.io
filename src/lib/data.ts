@@ -74,7 +74,7 @@ export const projects = [
     title: "Proyecto de Analítica Comercial – Alicorp",
     img:"/proyecto3.jpg",
     description: [
-      "Análisis descriptivo, predictivo y prescriptivo de productos de consumo en supermercados de la marca Alicorp.",
+      "Se realizó un análisis descriptivo, predictivo y prescriptivo de los productos de consumo de la marca Alicorp que se registró en los supermercados.",
       "Comparativa de precios y cantidades entre supermercados y subcategorías.",
       "Analisis a la competencia 'Vivanda' mediante web scrapping",
       "Predicción de ciclos de vida de productos, popularidad y precios usando series temporales.",
