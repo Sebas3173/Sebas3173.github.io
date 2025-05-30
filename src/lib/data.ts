@@ -54,10 +54,21 @@ export const projects = [
     description: [
       "Empleando una data oficial se realizó un análisis de casos registrados por región.",
       "Se creó una web para que exista la posibilidad de que los resultados sean visualizados por todo publico.",
-      "Utilizando Power BI se diseñaron los dashboards para visualizar y y filtrar los datos según lo que se quiera observar.",
-      "Se hizo modelo descriptivo y predictivo.",
+      "Utilizando Power BI se diseñaron los dashboards para visualizar mapas geoespaciales, filtrar datos ya sea por edad, región, diagnostico, etc.",
+      "Se empleó un enfoque híbrido combinando como metodología (Design Thinking) y marco de trabajo ágil (SCRUM).",
     ],
   },
+  {
+    title: "Proyecto de Analítica Comercial – Alicorp",
+    description: [
+      "Análisis descriptivo, predictivo y prescriptivo de productos de consumo en supermercados de la marca Alicorp.",
+      "Comparativa de precios y cantidades entre supermercados y subcategorías.",
+      "Analisis a la competencia 'Vivanda' mediante web scrapping",
+      "Predicción de ciclos de vida de productos, popularidad y precios usando series temporales.",
+      "Visualización de los datos y extracción de insights para apoyar en la toma de decisiones.",
+    ],
+  },
+
 ];
 
 export const awards = [
