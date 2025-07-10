@@ -111,14 +111,11 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Soy un profesional recién graduado en Gestión de sistemas de 
-              la información, con una sólida formación en programación, 
-              bases de datos, redes y administración de sistemas. Me 
-              apasiona aprender nuevas tecnologías y aplicar mis 
-              conocimientos en proyectos prácticos. 
-              Busco una oportunidad para iniciar mi carrera profesional y 
-              contribuir al desarrollo de soluciones tecnológicas 
-              innovadoras.
+              🚀 Soy egresado de Gestión de Sistemas de Información, con 
+                  interés en el análisis de datos y experiencia en herramientas 
+                  como Power BI, SQL y Excel. Busco aplicar mis habilidades en 
+                  la extracción, visualización e interpretación de datos para 
+                  apoyar la toma de decisiones empresariales.
             </p>
           </div>
         </MotionWrapper>
